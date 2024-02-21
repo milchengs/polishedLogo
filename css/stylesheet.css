@@ -1,0 +1,52 @@
+.navbar {
+  background-color: rgb(244, 239, 239);
+}
+
+.nav-highlight {
+  color: black !important;
+  border-bottom: 1px solid black;
+}
+
+.main-body {
+  min-height: 100vh;
+  width: 50%;
+}
+
+.footer-em {
+  background-color: #faf2f4;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  padding: 1em;
+}
+
+.subtitle {
+  text-decoration: underline;
+  font-weight: 700;
+  margin-bottom: 1em;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
+
+.logoImg {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.faviImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.faviCol {
+  margin-bottom: 2em;
+}
